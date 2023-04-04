@@ -11,7 +11,7 @@ function App() {
     <Router>
         <NavBar />
        <Routes>
-          <Route path="/Portfolio/" element={<Home />} />
+          <Route path="/React-Portfolio/" element={<Home />} />
            <Route path="/Portfolio/projects" element={<Projects />} />
            {/* <Route path="/resume" element={<Resume />} /> */}
            {/* <Route path="*" element={<About to="/"/>} /> */}
